@@ -91,3 +91,19 @@ Then open `http://localhost:8080` in your browser.
 ## 📦 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
+
+#optinal
+
+sudo apt-get update -y
+
+sudo apt-get upgrade
+
+#required
+
+curl -fsSL https://get.docker.com -o get-docker.sh
+
+sudo sh get-docker.sh
+
+sudo usermod -aG docker ubuntu
+
+newgrp docker
