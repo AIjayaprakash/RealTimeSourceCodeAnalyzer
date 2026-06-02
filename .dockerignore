@@ -1,0 +1,9 @@
+# Ignore build and distribution artifacts
+*.egg-info/
+*.egg-info
+build/
+dist/
+__pycache__/
+.venv/
+.env
+.git/
