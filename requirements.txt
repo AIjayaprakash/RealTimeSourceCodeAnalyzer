@@ -1,9 +1,9 @@
-openai==0.28
-tiktoken
+openai
+tiktoken 
 chromadb
-langchain
 flask
 GitPython
 python-dotenv
 setuptools
--e .
+langchain
+langchain_community
