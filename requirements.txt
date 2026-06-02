@@ -5,3 +5,5 @@ langchain
 flask
 GitPython
 python-dotenv
+setuptools
+-e .
