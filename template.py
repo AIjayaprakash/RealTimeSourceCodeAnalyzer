@@ -26,3 +26,5 @@ for filepath in list_of_files:
         logging.info(f"Creating File:{filepath}")
     else:
         logging.info(f"File Already Exists:{filepath}")
+
+# print
